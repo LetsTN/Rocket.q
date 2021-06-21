@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Rocket.q" title="Rocket.q" src=".github/logo.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Roquet.q" src=".github/capa.png" width="100%">
+  <img alt="Rocket.q" src=".github/capa.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
