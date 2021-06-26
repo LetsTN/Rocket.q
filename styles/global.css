@@ -10,7 +10,7 @@ html {
   --black: #0D114F;
   --white: #FAFAFA;
   --red: #E83F5B;
-  --ligth-blue: #E0ECFF;
+  --light-blue: #E0ECFF;
   --blue: #3485FF;
   --background: #FBFCFF;
   --overlay: #040911;
@@ -18,7 +18,7 @@ html {
 
   --grey-dark: #4D5E77;
   --grey-blue: #A1B2CD;
-  --grey-medium: #D3D9E2;
+  --grey-medium: #eaecf2;
   --grey-light: #E5EAF1;
 
 
@@ -91,6 +91,19 @@ button.outlined,
   color: var(--blue);
   border: .2rem solid var(--blue)
 }
+
+button.red,
+.button.red {
+  background: var(--red);
+  color: var(--white);
+}
+
+button.grey,
+.button.grey {
+  background: var(--grey-light);
+  color: var(--grey-dark);
+}
+
 
 .content header {
   width: 80%;
