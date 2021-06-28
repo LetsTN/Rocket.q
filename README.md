@@ -44,8 +44,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🚀 Como executar
 
-- Clone o repositório
-- 
+- Clone o repositório;
+- Instale as dependências com ``` npm install ```;
+- Inicie o banco de dados com ``` npm run init-db ```;
+- Rode o projeto com ``` npm run start ```;
 
 ## 📄 Licença
 
